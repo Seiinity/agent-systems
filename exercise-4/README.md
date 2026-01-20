@@ -1,4 +1,4 @@
-# Exercise 4: MCTS
+# Exercise 4 - MCTS
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![python](https://img.shields.io/badge/Python-3.13-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![pygame](https://img.shields.io/badge/Pygame-2.6.0-5AA816.svg?style=flat)](https://www.pygame.org/news)

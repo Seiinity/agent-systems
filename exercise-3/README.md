@@ -1,4 +1,4 @@
-# Exercise 3: Minimax with Static Evaluation
+# Exercise 3 - Minimax with Static Evaluation
 
 ## Overview
 
